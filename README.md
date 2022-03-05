@@ -1,36 +1,15 @@
 # music-manager
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Tool for managing my music library. Mostly just handles extracting and renaming
+bandcamp zips.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar music-manager-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Intended to be used from within emacs
 
 ## License
 
-Copyright © 2021 FIXME
+Copyright © 2022
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
